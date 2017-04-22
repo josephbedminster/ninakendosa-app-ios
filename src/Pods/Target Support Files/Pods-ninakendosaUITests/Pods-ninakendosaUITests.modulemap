@@ -1,0 +1,6 @@
+framework module Pods_ninakendosaUITests {
+  umbrella header "Pods-ninakendosaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
